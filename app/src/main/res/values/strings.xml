@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My PortFolio</string>
+    <string name="name">Dr. Dennis Akpenyi</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">
+\n\nI have a bachelor’s degree in Medicine and Surgery (MBBS) from University of Benin, Benin City, Nigeria.
+
+\n\nAnd I recently bagged a master’s degree in Medical Informatics at Deggendorf University of Applied Science (European Campus), Pfarrkirchen, Bavaria, Germany.
+
+\n\nI currently work as a Data Scientist at Vivy GmbH, a startup in Berlin.
+
+\n\nMy Skill sets span across programming (Python, Kotlin, SQL, Javascript), mobile app development (Android), statistics, data mining, data visualization, and Machine Learning.
+
+\n\nMy working experience of over 5 years as a medical doctor has proven beneficial in developing Machine Learning applications for the healthcare sector.
+\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
