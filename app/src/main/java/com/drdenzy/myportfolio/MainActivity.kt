@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun addNickname(view: View){
+
         binding.apply {
             //binding.nicknameText.text = binding.nicknameEdit.text
             nomensMe?.nickname = nicknameEdit.text.toString()
